@@ -1,0 +1,27 @@
+Round 1:
+  1. deepseek-chat
+  2. claude-3-7-sonnet-latest
+  3. gpt-4o-mini
+  4. llama-3.3-70b-versatile
+  5. llama3.2
+  6. gemini-2.0-flash
+  🏆 Best: deepseek-chat
+
+Round 2:
+  1. gpt-4o-mini
+  2. deepseek-chat
+  3. claude-3-7-sonnet-latest
+  4. llama-3.3-70b-versatile
+  5. llama3.2
+  6. gemini-2.0-flash
+  🏆 Best: gpt-4o-mini
+
+Round 3:
+  1. deepseek-chat
+  2. claude-3-7-sonnet-latest
+  3. gpt-4o-mini
+  4. gemini-2.0-flash
+  5. llama-3.3-70b-versatile
+  6. llama3.2
+  🏆 Best: deepseek-chat
+
